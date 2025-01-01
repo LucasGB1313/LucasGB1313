@@ -1,4 +1,4 @@
-## Opa sou Lucas Gabriel dizzy 🔥
+## Opa sou Lucas Gabriel 🔥
 
 Estudo front-end e Back-end 🖤
 

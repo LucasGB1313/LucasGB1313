@@ -4,7 +4,6 @@ Estudo front-end e Back-end 🖤
 
 <div>
 <a href="https://github.com/LucasGB1313">
-<img height="180em" src="https://git.hub-readme-stats.vercel.app/api?username=LucasGB1313&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
 
 ##
